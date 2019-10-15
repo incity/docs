@@ -33,7 +33,7 @@ Objects have a *main style* which determines the appearance of their background 
 For example, a slider has 3 styles:
 - Background (main style)
 - Indicator
-- Know
+- Knob
 
 Some object types only have one style. For example:
 - Label
